@@ -7,6 +7,7 @@
 ## Description
 
 Um exemplo de crud com nestjs
+Esta aplicação utiliza TypeORM e postgres como banco de dados Principal.
 
 ## Installation
 
